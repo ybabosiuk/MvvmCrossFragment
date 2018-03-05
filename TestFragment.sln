@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFragment.Core", "TestFragment\TestFragment.Core.csproj", "{941B7465-E600-4577-88B2-9D10E23EF0E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestFragment.Droid", "TestFragment.Droid\TestFragment.Droid.csproj", "{9DEBB6A4-DCA4-4AE5-B481-D2ADFBF88650}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{941B7465-E600-4577-88B2-9D10E23EF0E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{941B7465-E600-4577-88B2-9D10E23EF0E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{941B7465-E600-4577-88B2-9D10E23EF0E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{941B7465-E600-4577-88B2-9D10E23EF0E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DEBB6A4-DCA4-4AE5-B481-D2ADFBF88650}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DEBB6A4-DCA4-4AE5-B481-D2ADFBF88650}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DEBB6A4-DCA4-4AE5-B481-D2ADFBF88650}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DEBB6A4-DCA4-4AE5-B481-D2ADFBF88650}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
